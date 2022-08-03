@@ -30,11 +30,11 @@ public class ProductServiceController {
 
     static {
 
-        products.add(new Product(1, "Shampoo Canino", 35.00, "Shampoo para cachorro gourmet"));
-        products.add(new Product(2, "Shampoo Felino", 38.00, "Shampoo para gato gourmet"));
-        products.add(new Product(3, "Bolinha de borracha", 15.00, "Brinquedo para cachorro"));
-        products.add(new Product(4, "Remédio Canino", 30.00, "Remédio para cachorro nutella"));
-        products.add(new Product(5, "Roupinha de cachorro", 105.00, "Roupinha de cachorro friorento"));
+        products.add(new Product(0, "Shampoo Canino", 35.00, "Shampoo para cachorro gourmet"));
+        products.add(new Product(1, "Shampoo Felino", 38.00, "Shampoo para gato gourmet"));
+        products.add(new Product(2, "Bolinha de borracha", 15.00, "Brinquedo para cachorro"));
+        products.add(new Product(3, "Remédio Canino", 30.00, "Remédio para cachorro nutella"));
+        products.add(new Product(4, "Roupinha de cachorro", 105.00, "Roupinha de cachorro friorento"));
 
     }
 
